@@ -1,0 +1,81 @@
+[ 2021-02-06 23:25:47 ] [  ERROR  ] 'SimsimiAPI' object has no attribute 'current_window_handle'
+[ 2021-02-06 23:26:50 ] [  ERROR  ] 'SimsimiAPI' object has no attribute 'current_window_handle'
+[ 2021-02-06 23:27:19 ] [  ERROR  ] 'SimsimiAPI' object has no attribute 'current_window_handle'
+[ 2021-02-06 23:28:13 ] [  ERROR  ] 'SimsimiAPI' object has no attribute 'current_window_handle'
+[ 2021-02-06 23:29:27 ] [  ERROR  ] 'SimsimiAPI' object has no attribute 'current_window_handle'
+[ 2021-02-06 23:32:09 ] [  ERROR  ] 'SimsimiAPI' object has no attribute 'current_window_handle'
+[ 2021-02-06 23:33:56 ] [  ERROR  ] 'SimsimiAPI' object has no attribute 'current_window_handle'
+[ 2021-02-06 23:41:54 ] [  ERROR  ] name 'time' is not defined
+[ 2021-02-06 23:43:27 ] [  ERROR  ] name 'time' is not defined
+[ 2021-02-06 23:44:26 ] [  ERROR  ] name 'time' is not defined
+[ 2021-02-06 23:45:03 ] [  ERROR  ] name 'time' is not defined
+[ 2021-02-06 23:46:00 ] [  ERROR  ] name 'time' is not defined
+[ 2021-02-06 23:48:16 ] [  ERROR  ] name 'time' is not defined
+[ 2021-02-07 00:06:48 ] [  ERROR  ] empty range for randrange() (5, 5, 0)
+[ 2021-02-07 00:31:11 ] [  ERROR  ] 'SimsimiAPI' object has no attribute 'drive'
+[ 2021-02-07 00:33:36 ] [  ERROR  ] 'SimsimiAPI' object has no attribute 'drive'
+[ 2021-02-07 00:54:26 ] [  ERROR  ] Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/div/div[1]/div/div[2]/label"}
+  (Session info: chrome=88.0.4324.152)
+
+[ 2021-02-07 00:55:28 ] [  ERROR  ] Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/div/div[1]/div/div[2]/label"}
+  (Session info: chrome=88.0.4324.152)
+
+[ 2021-02-07 00:56:33 ] [  ERROR  ] Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/div/div[1]/div/div[2]/label"}
+  (Session info: chrome=88.0.4324.152)
+
+[ 2021-02-07 01:02:38 ] [  ERROR  ] Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=88.0.4324.152)
+
+[ 2021-02-07 01:09:20 ] [  ERROR  ] HTTPConnectionPool(host='127.0.0.1', port=56109): Max retries exceeded with url: /session/71fca607d45baa455b0af8ab31680794/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7657f399a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+[ 2021-02-07 01:11:35 ] [  ERROR  ] Message: unknown error: cannot determine loading status
+from unknown error: cannot determine loading status
+from disconnected: Unable to receive message from renderer
+  (Session info: chrome=88.0.4324.152)
+
+[ 2021-02-07 01:15:17 ] [  ERROR  ] Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=88.0.4324.152)
+
+[ 2021-02-07 01:18:53 ] [  ERROR  ] name 'driver' is not defined
+[ 2021-02-07 01:53:22 ] [  ERROR  ] Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div/div[2]/div/div/form/div[3]/div[2]"}
+  (Session info: chrome=88.0.4324.152)
+
+[ 2021-02-07 01:58:09 ] [  ERROR  ] Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div/div[2]/div/div/form/button"}
+  (Session info: headless chrome=88.1.19.92)
+
+[ 2021-02-07 01:59:10 ] [  ERROR  ] Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div/div[2]/div/div/form/button"}
+  (Session info: headless chrome=88.1.19.92)
+
+[ 2021-02-07 01:59:57 ] [  ERROR  ] Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div/div[2]/div/div/form/button"}
+  (Session info: headless chrome=88.1.19.92)
+
+[ 2021-02-07 02:01:28 ] [  ERROR  ] Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div/div[2]/div/div/form/button"}
+  (Session info: chrome=88.0.4324.152)
+
+[ 2021-02-07 02:02:15 ] [  ERROR  ] Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div/div[2]/div/div/form/button"}
+  (Session info: chrome=88.0.4324.152)
+
+[ 2021-02-07 02:03:03 ] [  ERROR  ] Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div/div[2]/div/div/form/button"}
+  (Session info: chrome=88.0.4324.152)
+
+[ 2021-02-07 02:03:44 ] [  ERROR  ] Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div/div[2]/div/div/form/button"}
+  (Session info: chrome=88.0.4324.152)
+
+[ 2021-02-07 02:04:41 ] [  ERROR  ] Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div/div[2]/div/div/form/button"}
+  (Session info: chrome=88.0.4324.152)
+
+[ 2021-02-07 02:05:41 ] [  ERROR  ] Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div/div[2]/div/div/form/button"}
+  (Session info: chrome=88.0.4324.152)
+
+[ 2021-02-07 02:07:18 ] [  ERROR  ] Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div/div[2]/div/div/form/button"}
+  (Session info: chrome=88.0.4324.152)
+
+[ 2021-02-07 02:08:11 ] [  ERROR  ] Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div/div/div[2]/div/div/form/button"}
+  (Session info: chrome=88.0.4324.152)
+
+[ 2021-02-07 02:38:17 ] [  ERROR  ] Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/div/div[2]/div[2]/div"}
+  (Session info: headless chrome=88.1.19.92)
+
+[ 2021-02-07 05:48:36 ] [  ERROR  ] Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[1]/div/div[2]/div/div[1]/div/div[2]/label"}
+  (Session info: headless chrome=88.1.19.92)
+
